@@ -1,0 +1,9 @@
+[submodule "proep-onsite-app"]
+	path = proep-onsite-app
+	url = https://git.fhict.nl/I388789/proep-onsite-app
+[submodule "proep-hexoft-consumer-app"]
+	path = proep-hexoft-consumer-app
+	url = https://git.fhict.nl/I458642/proep-hexoft-consumer-app
+[submodule "employee-app-react-native"]
+	path = employee-app-react-native
+	url = https://git.fhict.nl/I387887/employee-app-react-native
